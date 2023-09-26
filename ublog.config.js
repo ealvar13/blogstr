@@ -53,11 +53,11 @@ module.exports = {
     },
   ],
   relays: [
-    // "wss://commerceinnovationgroup.com",
     // "wss://relay.snort.social",
     // "wss://nostr-pub.wellorder.net",
     // "wss://relay.damus.io",
     "wss://nos.lol",
+    "wss://dash.commerceinnovationgroup.com",
     "wss://nostr.wine",
     "wss://nostr.nostrelay.org",
     "wss://relay.nostr.ch",
